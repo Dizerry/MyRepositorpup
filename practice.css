@@ -1,0 +1,36 @@
+h1{
+    background-color: blue;
+    color: aqua;
+    
+}
+#skin{
+    background-color:blueviolet; color: brown;
+}
+.navigation{
+    color: aquamarine;
+}
+th{
+    color: blue;
+}
+#blog h1{ background-color: rgb(43, 7, 7);
+
+}
+#blog div h1{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration-line: underline;
+  text-decoration-color: red;
+  text-decoration-style: solid;
+  text-decoration-thickness: 5px;
+}
+
+h1:hover {
+    color: rgba(255,255,255,128)
+  }
+  #site{ hyphenate-limit-chars: 360,0,128;
+    
+  }
+  #site:hover{ 
+    color: blueviolet;
+
+  }
